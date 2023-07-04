@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://chakri-portfolio.netlify.app/](https://chakri-portfolio.netlify.app/)
+- 👨‍💻 My Portfolio and all of my projects are available at [https://chakri-portfolio.netlify.app/](https://chakri-portfolio.netlify.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **DSA and Web Development**
 
 - 📫 How to reach me **chakradharchakri939@gmail.com**
 
