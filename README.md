@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/30chakri" target="blank"><img src="https://img.shields.io/twitter/follow/30chakri?logo=twitter&style=for-the-badge" alt="30chakri" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I am a computer science student. 
 
 - 👨‍💻 My Portfolio and all of my projects are available at [chakri-portfolio](https://chakri-portfolio.netlify.app/)
 
