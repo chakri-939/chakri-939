@@ -55,6 +55,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">📊 Leetcode Stats:</h3>
+
+![](https://leetcode.card.workers.dev/chakradhar-chakri?theme=dark&font=poppins&extension=null)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakri-939&show_icons=true&locale=en&layout=compact" alt="chakri-939" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakri-939&show_icons=true&locale=en" alt="chakri-939" /></p>
