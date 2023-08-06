@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **chakradharchakri939@gmail.com**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1udQQd3Afeu3xrqsIMRRyBamKAjyDCiq5/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/10NDVDo_yLS677u-Z-00bkoQ_UTGphhoa/view?usp=sharing)
 
 - ⚡ Fun fact **I love exploring the great outdoors and going on adventurous hikes**
 
