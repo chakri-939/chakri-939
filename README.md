@@ -55,7 +55,7 @@
 
 <h3 align="left">📊 Leetcode Stats:</h3>
 
-![](https://leetcode.card.workers.dev/chakradhar-chakri?theme=dark&font=poppins&extension=null)
+![](https://leetcode.card.workers.dev/chakradharchakri939?theme=dark&font=poppins&extension=null)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakri-939&show_icons=true&locale=en&layout=compact" alt="chakri-939" /></p>
 
